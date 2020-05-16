@@ -1,6 +1,7 @@
 |Workflows|_ |Circle|_ |Codecov|_
 
 .. |Workflows| image:: https://github.com/wmvanvliet/kirpputori/workflows/unit%20tests/badge.svg
+.. _Workflows: https://github.com/wmvanvliet/kirpputori/actions
 
 .. |Circle| image:: https://circleci.com/gh/wmvanvliet/kirpputori.svg?style=shield
 .. _Circle: https://circleci.com/gh/wmvanvliet/kirpputori
