@@ -1,6 +1,10 @@
 Kirpputori
 ----------
 
+.. image:: https://circleci.com/gh/wmvanvliet/kirpputori.svg?style=shield
+   :target: https://circleci.com/gh/wmvanvliet/kirpputori
+.. image:: https://github.com/wmvanvliet/kirpputori/workflows/unit%20tests/badge.svg
+
 This Python module contains a random collection of algorithms.
 
 
