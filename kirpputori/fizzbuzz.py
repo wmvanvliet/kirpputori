@@ -12,7 +12,7 @@ def fizzbuzz(end=100):
     The rules are as follows::
 
     1. Whenever the count is divisible by 3, the number is replaced with
-      "Fizz"
+       "Fizz"
     2. Whenever the count is divisible by 5, the number is replaced with "Buzz"
     3. Whenever the count is divisible by both 3 and 5, the number is replaced
        with "FizzBuzz"

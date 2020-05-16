@@ -1,3 +1,14 @@
+|Workflows|_ |Circle|_ |Codecov|_
+
+.. |Workflows| image:: https://github.com/wmvanvliet/kirpputori/workflows/unit%20tests/badge.svg
+.. _Workflows: https://github.com/wmvanvliet/kirpputori/actions
+
+.. |Circle| image:: https://circleci.com/gh/wmvanvliet/kirpputori.svg?style=shield
+.. _Circle: https://circleci.com/gh/wmvanvliet/kirpputori
+
+.. |Codecov| image:: https://codecov.io/gh/wmvanvliet/kirpputori/branch/master/graph/badge.svg
+.. _Codecov: https://codecov.io/gh/wmvanvliet/kirpputori
+
 Kirpputori
 ----------
 
@@ -9,7 +20,7 @@ Installation
 
 Here is how to install the package as a user:
 
-``pip install git+https://github.com/wmvanvliet/mne-rsa.git``
+``pip install git+https://github.com/wmvanvliet/kirpputori.git``
 
 
 Example usage
