@@ -35,3 +35,4 @@ jobs:
       run: |
         python setup.py develop --user
         pytest
+        bash <(curl -s https://codecov.io/bash) -t 7c5fb1ad-acf1-4d29-a1ee-8fc17d5cd1d6 
