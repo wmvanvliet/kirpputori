@@ -13,7 +13,7 @@ Installation
 
 Here is how to install the package as a user:
 
-``pip install git+https://github.com/wmvanvliet/mne-rsa.git``
+``pip install git+https://github.com/wmvanvliet/kirpputori.git``
 
 
 Example usage
