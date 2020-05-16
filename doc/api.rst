@@ -13,3 +13,12 @@ Functions relating to prime numbers
     :template: function.rst
 
     first_n_primes
+
+
+Functions relating to FizzBuzz
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. autosummary::
+    :toctree: functions
+    :template: function.rst
+
+    fizzbuzz
