@@ -14,6 +14,7 @@ Current
 API
 ~~~
 - Added :func:`first_n_primes` to compute prime numbers, by `Marijn van Vliet`_
+- Added :func:`fizzbuzz` to play FizzBuzz, by `Marijn van Vliet`_
 
 Bug
 ~~~
